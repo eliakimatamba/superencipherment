@@ -1,5 +1,3 @@
-//Ruide Xie
-
 //SuperCipher class
 public class SuperCipher extends BaseCipher{
     private BaseCipher[] baseCipher;
