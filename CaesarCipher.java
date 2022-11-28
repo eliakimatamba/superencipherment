@@ -1,4 +1,3 @@
-//Ruide Xie
 
 //CaesarCipher class
 public class CaesarCipher extends BaseCipher{
