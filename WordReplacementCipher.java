@@ -1,4 +1,4 @@
-//Ruide Xie
+
 
 //WordReplacementCipher class
 public class WordReplacementCipher extends BaseCipher{

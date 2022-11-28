@@ -1,4 +1,4 @@
-//Ruide Xie
+
 
 //EncryptUtils class
 public class EncryptUtils {

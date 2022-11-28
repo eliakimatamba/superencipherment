@@ -1,4 +1,4 @@
-//Ruide Xie
+
 
 //EvenOddCipher class
 public class EvenOddCipher extends BaseCipher {
